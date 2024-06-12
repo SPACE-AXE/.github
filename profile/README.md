@@ -93,6 +93,10 @@ POS의 QR 결제 페이지에서는 백엔드에서 결제 정보를 받아와 �
 
 POS와 충전기는 주차장 중계 서버에 연결되어 있으며, 사용자가 입차 / 출차 / 충전 등의 행동을 시행할 경우 POS와 충전기는 중계 서버에 이벤트를 발생, 중계 서버는 이를 감지하여 백엔드 서버에 대신 요청을 보낸다.
 
+## 시연 동영상
+
+[![박차고 시연 영상](http://img.youtube.com/vi/v4RzdnhyIIo/0.jpg)](https://youtu.be/v4RzdnhyIIo)
+
 ## 전체 시스템 구조
 
 <img src="https://github.com/SPACE-AXE/.github/blob/main/%EB%B0%95%EC%B0%A8%EA%B3%A0%20%EA%B5%AC%EC%A1%B0%EB%8F%84.png">
